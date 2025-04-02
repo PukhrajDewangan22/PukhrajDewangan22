@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **pukhrajdewangan227@gmail.com**
 
-- ⚡ Fun fact **I've collected [number] bugs in my code, and I'm proud to say that I've squashed them all!**
+- ⚡ Fun fact **I've collected [10] bugs in my code, and I'm proud to say that I've squashed them all!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pukhrajdewangan22&label=Profile%20views&color=0e75b6&style=flat" alt="pukhrajdewangan22" /> </p>
 
