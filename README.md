@@ -40,6 +40,3 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pukhrajdewangan22&show_icons=true&locale=en" alt="pukhrajdewangan22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pukhrajdewangan22&" alt="pukhrajdewangan22" /></p>
